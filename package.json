@@ -1,6 +1,6 @@
 {
   "name": "codepoint0",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Return the first Unicode code point of a non-empty string.",
   "keywords": [
     "code-point",
